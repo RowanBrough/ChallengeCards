@@ -1,2 +1,0 @@
-# ChallengeCards
-Created with CodeSandbox
